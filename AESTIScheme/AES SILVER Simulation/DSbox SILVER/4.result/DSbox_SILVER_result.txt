@@ -1,0 +1,11 @@
+[     0.000] Netlist: /test/GF256InvDoubleSboxPartA_Unit.nl
+[     0.047] Parse: 1120 gate(s) / 1829 signal(s)
+[     1.836] Elaborate: 1120 gate(s) / 1829 signal(s)
+[  3822.078] probing.standard (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[ 95796.304] probing.robust   (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[ 95834.329] NI.standard      (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[150288.344] NI.robust        (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[150316.133] SNI.standard     (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[204640.597] SNI.robust       (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[204669.577] PINI.standard    (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
+[260243.623] PINI.robust      (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <in:line16,in:line8>
